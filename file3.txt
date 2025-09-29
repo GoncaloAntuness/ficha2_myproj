@@ -15,7 +15,6 @@ ola mundo
 
 
 <h2>Comidas</h2>
-
 <ul>
    <li>Bolos</li>
    <li>Tostas</li>
