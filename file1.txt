@@ -1,4 +1,7 @@
 Este é o exemplo de um ficheiro de texto file1
 Fiz uma alteração dentro do ficheiro
 Fiz outra alteração
+Alteração 5 da ficha 3
+Alterações efetuadas no branch NovaFeature
+
 
